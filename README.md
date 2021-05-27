@@ -1,6 +1,6 @@
 # Weather-Project
 ## Quick Start
-### git clone --\
+### git clone --
 npm init\
 node app.js\
 if nodemon installed...\
